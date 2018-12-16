@@ -7,7 +7,7 @@ This is a Song, Movie, and Concert search engine. You can search songs, movies, 
 # How to use the application:
 
 1. Open Bash/Terminal 
-![screenshot spotify] (Spotify.PNG)
+![screenshot spotify] (coding-file/week-11/liri-node-app/Spotify.PNG)
 2. type in node liri.js spotify-this-song "Your-Song-Name", or
 ![screenshot movie] (Movie.PNG)
 3. type in node liri.js movie-this "Your-Movie-Name", or
