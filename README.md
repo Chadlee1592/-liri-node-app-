@@ -1,10 +1,10 @@
 # -liri-node-app-
 
-#Description:
+# Description:
 
 This is a Song, Movie, and Concert search engine. You can search songs, movies, and concerts using this application with Node.js. This application is using Spotify API, OMDB API, and BandsInTown API to search the related information.
 
-#How to use the application:
+# How to use the application:
 
 1. Open Bash/Terminal 
 ![screenshot spotify] (Spotify.png)
