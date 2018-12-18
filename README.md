@@ -8,15 +8,15 @@ This is a Song, Movie, and Concert search engine. You can search songs, movies, 
 
 1. Open Bash/Terminal 
 
-<img src="spotify.png" width="200">
+<img src="https://github.com/Chadlee1592/liri-node-app/blob/master/Spotify.png?raw=true" width="200">
 
 2. type in node liri.js spotify-this-song "Your-Song-Name", or
 
-<img src="movie.png" width="200">
+<img src="https://github.com/Chadlee1592/liri-node-app/blob/master/Movie.png?raw=true" width="200">
 
 3. type in node liri.js movie-this "Your-Movie-Name", or
 
-<img src="concert.png" width="200">
+<img src="https://github.com/Chadlee1592/liri-node-app/blob/master/Spotify.png?raw=true" width="200">
 
 4. type in node liri.js concer-this "Your-Artist's-Name"
 
