@@ -11,6 +11,6 @@ This is a Song, Movie, and Concert search engine. You can search songs, movies, 
 2. type in node liri.js spotify-this-song "Your-Song-Name", or
 ![screenshot movie] (https://github.com/Chadlee1592/liri-node-app/blob/master/Movie.png)
 3. type in node liri.js movie-this "Your-Movie-Name", or
-![screentshot concert] (Concert.PNG)
+![screentshot concert](Concert.PNG =100x100)
 4. type in node liri.js concer-this "Your-Artist's-Name"
 
